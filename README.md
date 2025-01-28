@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pdpatilcapita
+- 👋 Hi, I’m Pravin Patil
 - 👀 I’m interested in Microsoft Sharepoint and PowerBI
 - 🌱 I’m currently learning Automation and GitHub AI
 - 💞️ I’m looking to collaborate on Low code No code using Azure
